@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=VehicleType
+comment1.params=code\ description\ seats
+comment1.target=VehicleType(java.lang.String,\ java.lang.String,\ java.lang.Integer)
+comment2.params=
+comment2.target=java.lang.String\ getCode()
+comment3.params=code
+comment3.target=void\ setCode(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment5.params=description
+comment5.target=void\ setDescription(java.lang.String)
+comment6.params=
+comment6.target=java.lang.Integer\ getSeats()
+comment7.params=seats
+comment7.target=void\ setSeats(java.lang.Integer)
+numComments=8

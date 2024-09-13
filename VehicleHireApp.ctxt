@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=VehicleHireApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayMenu()
+comment3.params=sc\ message
+comment3.target=int\ getValidIntegerInput(java.util.Scanner,\ java.lang.String)
+comment4.params=sc\ carPark
+comment4.target=void\ addParkingSlot(java.util.Scanner,\ CarPark)
+comment5.params=sc\ carPark
+comment5.target=void\ deleteParkingSlot(java.util.Scanner,\ CarPark)
+comment6.params=sc\ carPark
+comment6.target=void\ parkVehicle(java.util.Scanner,\ CarPark)
+comment7.params=sc\ carPark
+comment7.target=void\ findVehicle(java.util.Scanner,\ CarPark)
+comment8.params=sc\ carPark
+comment8.target=void\ removeVehicle(java.util.Scanner,\ CarPark)
+numComments=9
